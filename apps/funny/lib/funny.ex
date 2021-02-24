@@ -1,0 +1,2 @@
+defmodule Funny do
+end
