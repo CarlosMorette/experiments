@@ -1,0 +1,3 @@
+defmodule Suit do
+  
+end
