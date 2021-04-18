@@ -5,3 +5,5 @@
 - Experiences
 - Delegation
 - Funny
+- Suit
+- Table
